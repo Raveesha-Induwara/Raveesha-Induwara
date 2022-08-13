@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raveesha Induwara
+- 👋 Hi, I’m Raveesha Induwara.
 - 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning at the university of Moratuwa and following an Information Technology degree.
 - 💞️ I'm looking to collaborate with my university siblings and lecturers and so on.
