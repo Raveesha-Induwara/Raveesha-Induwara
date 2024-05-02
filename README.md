@@ -1,6 +1,9 @@
 <h1 align="center">Hi there, I'm Raveesha Induwara. 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raveeshainduwara&label=Profile%20views&color=0e75b6&style=flat" alt="raveeshainduwara" /> </p>
 
+<p>I'm a dedicated, passionate Information Technology undergraduate and also a self-motivated individual with the capability of balance work, good organizing, management, leadership and teamwork capabilities. </p>
+</br>
+
 - 🌱 I’m currently learning **at University of Moratuwa, Sri Lanka as a IT undergraduate.**
 
 - 👯 I’m looking to collaborate with **Web & Mobile Developers and also with DevOps Engineers**
