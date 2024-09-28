@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **raveeshe.abeysinghe@gmail.com**
 
-- 📄 Please have a look at my [Resume](https://google.com) for more details about me. I'm open to feedback and suggestions!
+- 📄 Please have a look at my [Resume](https://dms.uom.lk/s/c78WcHMzj95mtMo) for more details about me. I'm open to feedback and suggestions!
 
 <!-- About Me end -->
 
