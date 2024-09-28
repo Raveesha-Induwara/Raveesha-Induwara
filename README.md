@@ -2,9 +2,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raveeshainduwara&label=Profile%20views&color=0e75b6&style=flat" alt="raveeshainduwara" /> </p>
 
 <!-- About Me start -->
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 220px></picture>
 
 <p>I'm a dedicated, passionate Information Technology undergraduate and also a self-motivated individual with the capability of balance work, good organizing, management, leadership and teamwork capabilities. </p>
 
@@ -16,13 +16,18 @@
 
 - 📫 How to reach me **raveeshe.abeysinghe@gmail.com**
 
+- 📄 Please have a look at my [Resume](https://google.com) for more details about me. I'm open to feedback and suggestions!
+
 <!-- About Me end -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 
 <!-- Contact start -->
-<h3 align="center" > <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> Connect with me 🤝 </h3>
+<h3 align="center" > 
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> Connect with me 
+    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+</h3>
 
 <p align="center">
     <a href="https://linkedin.com/in/raveesha-induwara" target="blank">
@@ -30,7 +35,9 @@
     <a href="https://stackoverflow.com/users/23251666" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23251666" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/raveesha induwara" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raveesha induwara" height="30" width="40" /></a>
+      <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="raveesha induwara" height="30" width="40" /></a>
+    <a href = "mailto: raveeshe.abeysinghe@gmail.com">
+        <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="25" width="30" /></a>
 </p>
 <!-- Contact end -->
 
@@ -113,4 +120,23 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 </p>
 
+<br>
 
+<!-- 
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
+
+-->
