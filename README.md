@@ -6,21 +6,19 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 220px></picture>
 
-<p>I'm a dedicated, passionate Information Technology undergraduate and also a self-motivated individual with the capability of balance work, good organizing, management, leadership and teamwork capabilities. </p>
+<p>I'm a Cloud and DevOps enthusiast with hands-on experience managing production and staging environments, cloud infrastructure, containerized applications, and CI/CD workflows.</p>
 
-- 🌱 I’m currently learning **at University of Moratuwa, Sri Lanka as a final year IT undergraduate.**
+- 💼 I’m currently working **at Web Lankan, Sri Lanka as a Junior DevOps Engineer.**
 
-- 👯 I’m looking to collaborate with **Web & Mobile Developers and also with DevOps & Cloud Engineers**
+- 👯 I’m looking to collaborate with **DevOps & Cloud Engineers and also with Web & Mobile Developers**
 
-- 💬 Ask me about **React Native, Node.js, DevOps and Cloud**
+- 💬 Ask me about **DevOps and cloud infrastructure, automation, reliability, and scalable deployment practices**
 
 - 📫 How to reach me **raveeshe.abeysinghe@gmail.com**
 
-- 📄 Please have a look at my [Resume](https://dms.uom.lk/s/c78WcHMzj95mtMo) for more details about me. I'm open to feedback and suggestions!
+- 📄 Please have a look at my [LinkedIn](https://linkedin.com/in/raveesha-induwara) for more details about me. I'm open to feedback and suggestions!
 
 <!-- About Me end -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <!-- Contact start -->
 <h3 align="center" > 
@@ -39,11 +37,10 @@
         <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="25" width="30" /></a>
 </p>
 <!-- Contact end -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<br>
 
 [![Raveeshe Induwara Abeysinghe on CertDirectory](https://certdirectory.io/badge/raveesha.svg?style=card&theme=dark)](https://certdirectory.io/profile/raveesha?utm_source=github&utm_medium=readme)
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
